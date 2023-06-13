@@ -1,0 +1,204 @@
+48912141820042
+art
+bird
+
+
+0
+0
+0
+art
+bird_mirrored
+
+
+0
+0
+0
+art
+osprette_title
+
+
+0
+0
+0
+art
+smores
+
+
+0
+0
+0
+footprints
+choc-cutout
+Kailh "Choc" PG1350 keyswitch with optional socket mount, from daprice/keyswitches.pretty
+kailh,choc
+0
+0
+0
+footprints
+choc-switch
+Kailh "Choc" PG1350 keyswitch with optional socket mount, from daprice/keyswitches.pretty
+kailh,choc
+0
+4
+2
+footprints
+choc-switch-one-sided
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+2
+2
+footprints
+choc-switch-reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible from daprice/keyswitches.pretty
+kailh,choc
+0
+7
+2
+footprints
+choc-switch-socket-only
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+footprints
+choc-switch-solder-only
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB, from daprice/keyswitches.pretty
+kailh,choc
+0
+3
+2
+footprints
+evq
+
+
+0
+6
+6
+footprints
+m2-hole
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+9
+1
+footprints
+mx-cutout
+15mm square switch cutout
+kailh,choc
+0
+0
+0
+footprints
+mx-switch
+MX-style keyswitch with support for optional Kailh socket, from daprice/keyswitches.pretty
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+footprints
+mx-switch-reversible
+MX-style keyswitch with Kailh socket mount, from daprice/keyswitches.pretty
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+footprints
+mx-switch-solder-only
+MX-style keyswitch, reversible, from daprice/keyswitches.pretty
+MX,cherry,gateron,kailh
+0
+4
+2
+footprints
+oled
+OLED screen
+CONN DEV
+0
+4
+4
+footprints
+power-switch
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+footprints
+pro-micro
+
+
+0
+24
+24
+footprints
+reset-switch
+
+
+0
+2
+2
+footprints
+reset-switch-4pin
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+footprints
+reset-switch-angled-4pin
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+footprints
+single-pin
+Single through-hole pin
+R
+0
+1
+1
+footprints
+smd-diode
+Resitance 3 pas
+R
+0
+2
+2
+footprints
+tenting-puck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+footprints
+trrs
+
+
+0
+8
+4
+footprints
+trrs-one-sided
+
+
+0
+4
+4
+footprints
+xiao
+
+
+0
+18
+18
+footprints
+xiao-ble
+
+
+0
+22
+22
